@@ -1,2 +1,2 @@
 # Perguntas-Respostas
-Projeto de perguntas e respostas tipo yahoo feito em node.js
+Sistema web de perguntas e respostas tipo yahoo respostas feito em node.js.
