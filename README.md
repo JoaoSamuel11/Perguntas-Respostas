@@ -1,12 +1,12 @@
 <meta charset="utf-8">
-  <h1 align="center">🚀 GuiaPress 🚀</>
+  <h1 align="center">🚀 Perguntas-Respostas 🚀</>
   </h1>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/By-JOAOSAMUEL-4ec2ca?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ygorsansone/guiaPress?color=4ec2ca&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ygorsansone/guiaPress?color=4ec2ca&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JoaoSamuel11/Perguntas-Respostas?color=4ec2ca&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/JoaoSamuel11/Perguntas-Respostas?color=4ec2ca&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-4ec2ca?style=flat-square">
   </a>
