@@ -11,14 +11,14 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-4ec2ca?style=flat-square">
   </a>
   <a href="https://github.com/YgorSansone/guiaPress/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/YgorSansone/guiaPress?color=4ec2ca&style=flat-square">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JoaoSamuel11/Perguntas-Respostas?color=4ec2ca&style=flat-square">
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-67a05b?logo=Node.js&logoColor=ffffff&link=https://github.com/YgorSansone/Drone-REST-API" />
+  <img src="https://img.shields.io/badge/-Node.js-67a05b?logo=Node.js&logoColor=ffffff&link=https://github.com/JoaoSamuel11/GuiaPress" />
 </p>
 
 <br>
